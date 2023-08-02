@@ -6,13 +6,39 @@ Hi there, Software Engineer's<img src="https://raw.githubusercontent.com/MartinH
 
 <hr>
 <h1>I am Magaji Suleiman </h1>
-I'm a Software/Devops Engineer. I am passionate about writing clean, scalable and bug free codes inline with best industry practice.
+Fellow developers and tech enthusiasts! Welcome to my GitHub Land Page, where you can explore the exciting projects and contributions I've made as a Software and DevOps Engineer. This page serves as a hub to showcase my skills, experiences, and passion for technology. Feel free to browse through my repositories, contributions, and achievements.
 
+## About Me
+I am a passionate Software and DevOps Engineer with a deep love for building innovative solutions and optimizing software delivery. With 3 years of experience in the industry, I've had the privilege to work on various challenging projects that have honed my expertise in software development, DevOps practices, and cloud technologies.
 
 - 🌱 I’m currently learning Software Engineering at <a href="https://www.alxafrica.com/">alxafrica</a> 
 - 👯 I’m looking to collaborate on: Open Sorce Project || Backend Developement || DevOps
 - 😊 Pronouns: he/him
 
+## 📚Key Skill Set
+My skillset spans across multiple areas, including:
+  <p>
+  🌐 <b>Software Development:</b> 
+    <p>Proficient in Python, Java, C++, and JavaScript, I enjoy creating robust and efficient software solutions. I embrace software design patterns and      best practices to build scalable applications.</p>
+  </p>
+  <p>
+  🔄 <b>DevOps:</b> 
+    <p>As a strong advocate for DevOps practices, I am experienced in setting up CI/CD pipelines using Jenkins and GitLab CI. I'm also skilled in             containerization technologies like Docker and container orchestration with Kubernetes</p>
+  </p>
+  <p>
+ ⛅🌥️ <b>Cloud Technologies:</b> 
+    <p>I have hands-on experience working with Amazon Web Services (AWS). I leverage cloud services to deploy and manage applications for optimal             performance and cost efficiency.</p>
+  </p>
+  <p
+  🏗️ <b>Infrastructure as Code:</b> 
+     <p>I have hands-on experience working with Amazon Web Services (AWS). I leverage cloud services to deploy and manage applications for optimal              performance and cost efficiency.</p>
+  </p>
+  <p>
+  📈 <b>Monitoring and Logging:</b>
+    <p>I believe in the importance of visibility into systems, and thus, I use monitoring and logging tools such as Prometheus, Grafana, ELK stack, and        Splunk to keep track of application performance and troubleshoot issues.</p>
+  </p>
+
+Happy coding! 🚀
 
 
 ## 🔧Technologies and Tools
@@ -38,12 +64,8 @@ I'm a Software/Devops Engineer. I am passionate about writing clean, scalable an
 ![](https://img.shields.io/badge/Linux-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 
 
-
-
-
-
 ![GitHub metrics](https://camo.githubusercontent.com/df87f48713e9031fa78e7d60e452addd6a731a314a7e22344e8b377f55033b3e/68747470733a2f2f6d6574726963732e6c65636f712e696f2f6d6167616a6973756c65696d616e)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Micah-Shallom&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=magajisuleiman&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
 
 
