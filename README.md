@@ -23,19 +23,19 @@ My skillset spans across multiple areas, including:
   </p>
   <p>
   🔄 <b>DevOps:</b> 
-    <p>As a strong advocate for DevOps practices, I am experienced in setting up CI/CD pipelines using Jenkins and GitLab CI. I'm also skilled in             containerization technologies like Docker and container orchestration with Kubernetes</p>
+    <p>As a strong advocate for DevOps practices, I am experienced in setting up CI/CD pipelines using Jenkins and GitLab CI. I'm also skilled in containerization technologies like Docker and container orchestration with Kubernetes</p>
   </p>
   <p>
  ⛅🌥️ <b>Cloud Technologies:</b> 
-    <p>I have hands-on experience working with Amazon Web Services (AWS). I leverage cloud services to deploy and manage applications for optimal             performance and cost efficiency.</p>
+    <p>I have hands-on experience working with Amazon Web Services (AWS). I leverage cloud services to deploy and manage applications for optimal performance and cost efficiency.</p>
   </p>
-  <p
+  <p>
   🏗️ <b>Infrastructure as Code:</b> 
-     <p>I have hands-on experience working with Amazon Web Services (AWS). I leverage cloud services to deploy and manage applications for optimal              performance and cost efficiency.</p>
+     <p>I am well-versed in infrastructure automation using tools like Terraform, enabling me to define and provision resources programmatically.</p>
   </p>
   <p>
   📈 <b>Monitoring and Logging:</b>
-    <p>I believe in the importance of visibility into systems, and thus, I use monitoring and logging tools such as Prometheus, Grafana, ELK stack, and        Splunk to keep track of application performance and troubleshoot issues.</p>
+    <p>I believe in the importance of visibility into systems, and thus, I use monitoring and logging tools such as Prometheus, Grafana, ELK stack, and Splunk to keep track of application performance and troubleshoot issues.</p>
   </p>
 
 Happy coding! 🚀
